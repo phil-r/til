@@ -9,8 +9,11 @@ This a collection of things that I've learned in different fields.
 - [curl](#curl)
 - [git](#git)
 - [postgresql](#postgresql)
+- [unix](#unix)
+
 
 ---
+
 
 ## curl
 
@@ -25,6 +28,11 @@ This a collection of things that I've learned in different fields.
 ## postgresql
 
 - [Create, alter, delete and list roles in PostgreSQL](postgresql/create-alter-delete-and-list-roles.md)
+
+
+## unix
+
+- [Grep to find a word in a folder](unix/grep-to-find-a-word-in-a-folder.md)
 
 
 
