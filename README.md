@@ -25,3 +25,10 @@ This a collection of things that I've learned in different fields.
 ## postgresql
 
 - [Create, alter, delete and list roles in PostgreSQL](postgresql/create-alter-delete-and-list-roles.md)
+
+
+
+---
+
+
+Inspired by [`Today I Learned` by Josh Branchaud](https://github.com/jbranchaud/til)
