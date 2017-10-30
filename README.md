@@ -32,6 +32,7 @@ This a collection of things that I've learned in different fields.
 
 ## unix
 
+- [Create a swap file](unix/create-a-swap-file.md)
 - [Grep to find a word in a folder](unix/grep-to-find-a-word-in-a-folder.md)
 
 
