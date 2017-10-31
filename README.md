@@ -34,6 +34,7 @@ This a collection of things that I've learned in different fields.
 
 - [Create a swap file](unix/create-a-swap-file.md)
 - [Grep to find a word in a folder](unix/grep-to-find-a-word-in-a-folder.md)
+- [SSH without a password](unix/ssh-without-a-password.md)
 
 
 
