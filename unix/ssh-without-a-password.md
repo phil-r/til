@@ -1,7 +1,7 @@
 # SSH without a password
 
 
-To avoid entering password on every login to remote server you can add your public ssh key to `~/.ssh/authorized_keys`
+To avoid entering password on every login to remote server you can add your public ssh key to `~/.ssh/authorized_keys` on your server
 
 To do so, first get your public key(usually it's `~/.ssh/id_rsa.pub`):
 
