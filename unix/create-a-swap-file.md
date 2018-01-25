@@ -21,6 +21,18 @@ Make it swap file:
 sudo mkswap /swapfile
 ```
 
+And enable it running:
+
+```sh
+sudo swapon /swapfile
+```
+
+Check that it worked:
+
+```sh
+sudo swapon -s
+```
+
 Voila!
 
 ---
