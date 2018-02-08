@@ -33,6 +33,18 @@ Check that it worked:
 sudo swapon -s
 ```
 
+Now it's time to make swap file permanent, by editing [`fstab`](https://help.ubuntu.com/community/Fstab):
+
+```sh
+sudo vi /etc/fstab
+```
+
+and adding this line:
+
+```
+/swapfile none swap sw 0 0
+```
+
 Voila!
 
 ---
