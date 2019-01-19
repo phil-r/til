@@ -8,6 +8,7 @@ This a collection of things that I've learned in different fields.
 
 - [curl](#curl)
 - [git](#git)
+- [nginx](#nginx)
 - [postgresql](#postgresql)
 - [unix](#unix)
 
@@ -24,6 +25,8 @@ This a collection of things that I've learned in different fields.
 
 - [Remove ssh passphrase prompt on macOS](git/remove-ssh-passphrase-prompt-on-macos.md)
 
+## nginx
+- [Basic nginx](nginx/basic-nginx.md)
 
 ## postgresql
 
