@@ -37,6 +37,7 @@ This a collection of things that I've learned in different fields.
 
 - [Create a swap file](unix/create-a-swap-file.md)
 - [Grep to find a word in a folder](unix/grep-to-find-a-word-in-a-folder.md)
+- [SCP copy a file from a server](scp-copy-a-file-from-a-server.md)
 - [SSH without a password](unix/ssh-without-a-password.md)
 - [SSH config file](unix/ssh-config-file.md)
 - [SSH change port on server](unix/ssh-change-port-on-server.md)
